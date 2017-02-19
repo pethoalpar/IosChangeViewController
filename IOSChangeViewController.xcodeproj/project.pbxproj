@@ -13,6 +13,8 @@
 		382F8ED31E59E054008C039A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 382F8ED21E59E054008C039A /* Assets.xcassets */; };
 		382F8ED61E59E054008C039A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382F8ED41E59E054008C039A /* LaunchScreen.storyboard */; };
 		382F8EE11E59E054008C039A /* IOSChangeViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F8EE01E59E054008C039A /* IOSChangeViewControllerUITests.swift */; };
+		382F8EEC1E59E121008C039A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F8EEB1E59E121008C039A /* ViewController2.swift */; };
+		382F8EEE1E59E132008C039A /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F8EED1E59E132008C039A /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		382F8EDC1E59E054008C039A /* IOSChangeViewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOSChangeViewControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		382F8EE01E59E054008C039A /* IOSChangeViewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSChangeViewControllerUITests.swift; sourceTree = "<group>"; };
 		382F8EE21E59E054008C039A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		382F8EEB1E59E121008C039A /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		382F8EED1E59E132008C039A /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				382F8ED21E59E054008C039A /* Assets.xcassets */,
 				382F8ED41E59E054008C039A /* LaunchScreen.storyboard */,
 				382F8ED71E59E054008C039A /* Info.plist */,
+				382F8EEB1E59E121008C039A /* ViewController2.swift */,
+				382F8EED1E59E132008C039A /* ViewController3.swift */,
 			);
 			path = IOSChangeViewController;
 			sourceTree = "<group>";
@@ -203,6 +209,8 @@
 			files = (
 				382F8ECE1E59E054008C039A /* ViewController.swift in Sources */,
 				382F8ECC1E59E054008C039A /* AppDelegate.swift in Sources */,
+				382F8EEE1E59E132008C039A /* ViewController3.swift in Sources */,
+				382F8EEC1E59E121008C039A /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
